@@ -2,3 +2,6 @@ dconf/
 gtk*/
 mozilla/
 pulse/
+fcitx/
+fcitx5/
+ibus/
